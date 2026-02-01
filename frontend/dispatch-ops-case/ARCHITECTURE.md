@@ -1,4 +1,4 @@
-# Dispatch Ops case — Frontend Architecture
+# Tanstack-MSW case — Frontend Architecture
 
 ## Architecture Overview
 The UI follows a feature‑based structure: routes define entry points, features own domain‑specific UI/state, and shared UI primitives live in `components/`. Data flow uses TanStack Query for caching and mutations, with optimistic updates for fast feedback.

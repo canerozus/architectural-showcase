@@ -8,13 +8,13 @@ If you only have 5 minutes, start here:
 
 1) **2 min -- Pitch + scope**
    - `backend/Search-Retrieval-API-mini-case/README.md`
-   - `frontend/dispatch-ops-case/README.md`
+   - `frontend/tanstack-msw-case/README.md`
 2) **2 min -- Diagrams + request flow**
    - `backend/Search-Retrieval-API-mini-case/ARCHITECTURE.md`
-   - `frontend/dispatch-ops-case/ARCHITECTURE.md`
+   - `frontend/tanstack-msw-case/ARCHITECTURE.md`
 3) **1 min -- Explicit trade-offs**
    - `backend/Search-Retrieval-API-mini-case/DECISIONS.md`
-   - `frontend/dispatch-ops-case/DECISIONS.md`
+   - `frontend/tanstack-msw-case/DECISIONS.md`
 
 ---
 
@@ -26,8 +26,8 @@ If you only have 5 minutes, start here:
   Signals: ports/adapters, fallback strategy, minimal observability notes, testability.
 
 ### Frontend
-- **Dispatch Ops case** -> `frontend/dispatch-ops-case/`
-  Problem: build a dispatch operations UI with feature ownership and URL-driven state.
+- **Tanstack-MSW case** -> `frontend/tanstack-msw-case/`
+  Problem: build a UI with TanStack Router/Query and MSW for testing.
   Signals: TanStack Router/Query, optimistic updates + rollback, RHF + Zod validation.
 
 ### DevOps

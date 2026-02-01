@@ -1,4 +1,4 @@
-# Dispatch Ops case — Frontend UI
+# Tanstack-MSW case — Frontend UI
 
 ## One‑liner
 Feature‑based React UI showcasing predictable data flows, reusable UI primitives, and fast iteration with a modern TanStack + Tailwind stack.

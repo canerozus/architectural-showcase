@@ -1,4 +1,4 @@
-# Dispatch Ops case — Decisions
+# Tanstack-MSW case — Decisions
 
 ## 1) TanStack Router + Query
 - Context: Need predictable routing with type‑safe data access and caching.
